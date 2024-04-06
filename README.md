@@ -1,2 +1,2 @@
 # PetMe
-PetMe is a Ecommerce website for taking care for your pets.
+PetMe is a Ecommerce website for taking care of your pets.
